@@ -1,2 +1,0 @@
-# Vocab
-Word game
